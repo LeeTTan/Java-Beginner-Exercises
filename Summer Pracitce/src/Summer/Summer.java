@@ -73,6 +73,12 @@ public class Summer{
 			
 		}
 		}
+	static void whileLoop() {
+		int x = 10;
+		while(x=10) {
+			System.out.println("FOREVER");
+		}
+	}
 	
 public static void main (String[]Args) {
 	//Scanner in = new Scanner(System.in);
